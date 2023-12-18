@@ -17,14 +17,6 @@ This module covers how to construct a card deck using CSS.
 | [Creating the Deck](./creating-the-deck/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- |                     |
 
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
-| **Total Level Up content**                                          | -- | -- |                     |
 
 ## References
 
