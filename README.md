@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![CSS Card Deck](./assets/tktk-hero.png)
 
 ## About
 
