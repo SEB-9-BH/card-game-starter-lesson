@@ -127,7 +127,7 @@ function render(cardPicked) {
     deck2El.classList.remove("outline")
   }
 
-	// Remove previous picked card from deck 2 class list
+	// Remove previous picked card from deck2's class list. 
   if (deck2.length > 1) {  
     deck2El.classList.remove(cardToRemove)
   }
