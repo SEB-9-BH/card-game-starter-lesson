@@ -2,7 +2,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
-Let's start with the HTML. We'll need two deck <div>s and a button.  (Note the Bootstrap CDN link in the <head> of our HTML.  Let's also fancy up that button.  NOBODY likes plain buttons.)
+[tktk bootstrap?]
+
+Let's start with the HTML. We'll need two deck <div>s and a button. (Note the Bootstrap CDN link in the <head> of our HTML.  Let's also fancy up that button.  NOBODY likes plain buttons.)
 
 ```html
 <body>
@@ -14,7 +16,7 @@ Let's start with the HTML. We'll need two deck <div>s and a button.  (Note the B
 </body>
 ```
 
-Now that the HTML is out of the way, let's go set up a few variables in `app.js`:
+With the HTML adjustments out of the way, let's go set up a few variables in `app.js`:
 
 ```javascript
 // Declare variables
@@ -23,15 +25,15 @@ let deck2 = []
 let cardToRemove
 
 // Cached element references
-let deck1El = document.getElementById('deck-1')
-let deck2El = document.getElementById('deck-2')
+let deck1El = document.querySelector('#deck-1')
+let deck2El = document.querySelector('#deck-2')
 ```
 
 Next, stub up the event listener and test it out in the browser with a `console.log()`:
 
 ```javascript
 // Event listeners
-document.getElementById('btn').addEventListener('click', ()=> console.log('clicked'))
+document.querySelector('#btn').addEventListener('click', ()=> console.log('clicked'))
 ```
 
 Stub up and invoke an initialization function.  The purpose of this function is to put a fresh set of 52 cards into deck 1.  (This step isn't technically necessary, as we could just add the cards when we declare the decks.  This code allows for the addition of a reset feature, which you should challenge yourself to implement after the lecture!):
