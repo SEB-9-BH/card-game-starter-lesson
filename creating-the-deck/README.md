@@ -135,7 +135,7 @@ function render(cardPicked) {
 	// Set card to be removed on next click
   cardToRemove = cardPicked  
 
-	// Apply current picked card deck2's class list. 
+	// Apply current picked card deck2's class list. For example, if picked card was "h08", the the deck2El would gain the class "h08", which correlates to a background image of the eight of hearts. 
   deck2El.classList.add(cardPicked)  
 
   // Check which deck has the majority of cards. Once deck2 has more cards, remove shadow from deck1 and apply it to deck2.
