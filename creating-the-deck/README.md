@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
-Let's start with the HTML.  We'll need two deck <div>s and a button.  (Note the Bootstrap CDN link in the <head> of our HTML.  Let's also fancy up that button.  NOBODY likes plain buttons.)
+Let's start with the HTML. We'll need two deck <div>s and a button.  (Note the Bootstrap CDN link in the <head> of our HTML.  Let's also fancy up that button.  NOBODY likes plain buttons.)
 
 ```html
 <body>

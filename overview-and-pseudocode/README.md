@@ -6,7 +6,9 @@ The purpose of this lesson is to provide basic instructions for using the [CSS C
 
 ## Pseudocode Roadmap
 
-1. Declare variables (arrays) for two decks of cards.
+[tktk for QA1, leave in long form or just have them paste shortform below?] 
+
+<!-- 1. Declare variables (arrays) for two decks of cards.
 2. Create HTML elements (two `<div>`s) for the card decks:
     1. Deck 1 should display the back of a card with a shadow outline, indicating a larger stack.
     2. Deck 2 should display an empty card outline.
@@ -23,9 +25,9 @@ The purpose of this lesson is to provide basic instructions for using the [CSS C
     1. After the first card is picked, remove the outline on deck 2.
     2. Add the class name to display the card picked on deck 2.
     3. When half of the cards are flipped, move the shadow from deck 1 to deck 2.
-    4. When the final card is picked, add an outline to deck 1.
+    4. When the final card is picked, add an outline to deck 1. -->
 
-Paste the following into the `**app.js**` file so that we have some nice commented code to work with as we progress:
+Paste the following into the `**app.js**` file so that we have some nice commented pseudocode code to work with as we progress:
 
 ```javascript
 // Declare deck variables
