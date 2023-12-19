@@ -1,9 +1,8 @@
-# ![CSS Card Deck - tktk Microlesson Name](./assets/hero.png)
+# ![CSS Card Deck - Overview and Pseudocode](./assets/hero.png)
 
 ## Overview
 
-The purpose of this lesson is to provide basic instructions for using the [CSS Card Deck](https://github.com/SEI-Remote/css-card-deck).  This repository contains a style sheet and set of images that allow HTML elements to be styled as playing cards by adding/removing class names. 
-
+The purpose of this lesson is to provide basic instructions for using the [CSS Card Deck](https://github.com/SEI-Remote/css-card-deck). This repository contains a style sheet and set of images that allow HTML elements to be styled as playing cards by adding/removing class names. 
 
 ## Pseudocode Roadmap
 
@@ -26,7 +25,7 @@ The purpose of this lesson is to provide basic instructions for using the [CSS C
     3. When half of the cards are flipped, move the shadow from deck 1 to deck 2.
     4. When the final card is picked, add an outline to deck 1.
 
-It wouldn't be fun if we didn't run into some issues along the way, so we'll start with the pseudocode above and debug things as we go.  Paste the following into the `**app.js**` file so that we have some nice commented code to work with as we progress:
+Paste the following into the `**app.js**` file so that we have some nice commented code to work with as we progress:
 
 ```javascript
 // Declare deck variables
