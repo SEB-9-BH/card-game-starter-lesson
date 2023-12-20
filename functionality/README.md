@@ -1,6 +1,6 @@
 # ![CSS Card Deck - Creating The Deck](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to use JavaScript to 
 
 [tktk bootstrap?]
 

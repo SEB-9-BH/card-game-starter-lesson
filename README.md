@@ -12,9 +12,9 @@ This module covers how to construct a card deck using CSS.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md) | -- | -- | tktk skills covered |
+| [Setup](./setup/README.md) | -- | -- | -- |
 | [Overview and Pseudocode](./overview-and-pseudocode/README.md) | -- | -- | -- |
-| [Creating the Deck](./creating-the-deck/README.md) | -- | -- | Building a CSS card deck with HTML, CSS, and JavaScript |
+| [Functionality](./functionality/README.md) | -- | -- | Building a CSS card deck with HTML, CSS, and JavaScript |
 | **Total content**                                        | -- | -- |                     |
 
 ## References
