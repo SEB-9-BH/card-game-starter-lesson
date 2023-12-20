@@ -1,32 +1,21 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![CSS Card Deck](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module covers how to construct a card deck using CSS.
 
 ## Prerequisites
 
-- tktk
-- tktk
 - tktk
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Setup](./setup/README.md) | -- | -- | -- |
+| [Overview and Pseudocode](./overview-and-pseudocode/README.md) | -- | -- | Reading and using pseudocode |
+| [Functionality](./functionality/README.md) | -- | -- | Building a CSS card deck with HTML, CSS, and JavaScript |
 | **Total content**                                        | -- | -- |                     |
-
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
-| **Total Level Up content**                                          | -- | -- |                     |
 
 ## References
 
@@ -34,11 +23,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Deployed sites
 
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
+🌐 [Live site](https://flippin-awesome.surge.sh/)
 
 ## Internal resources
 

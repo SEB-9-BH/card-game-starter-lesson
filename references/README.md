@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - References](./assets/hero.png)
+# ![CSS Card Deck - References](./assets/hero.png)
 
 ## Lesson references
 
