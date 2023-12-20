@@ -25,7 +25,6 @@ This module covers how to construct a card deck using CSS.
 
 🌐 [Live site](https://flippin-awesome.surge.sh/)
 
-
 ## Internal resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
