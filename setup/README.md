@@ -6,11 +6,11 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
-Clone [this](git clone https://github.com/SEI-Remote/flippin-awesome-improved.git) repository, and enter the new directory: 
+Clone [this](git clone https://git.generalassemb.ly/modular-curriculum-all-courses/css-card-deck-starter) repository, and enter the new directory: 
 
 ```bash
-git clone git clone https://github.com/SEI-Remote/flippin-awesome-improved.git
-cd flippin-awesome-improved
+git clone git clone https://git.generalassemb.ly/modular-curriculum-all-courses/css-card-deck-starter
+cd css-card-deck-starter
 ```
 
 Delete the `.git` info from the cloned template: 
