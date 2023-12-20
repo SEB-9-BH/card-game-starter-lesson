@@ -34,18 +34,9 @@ Paste the following into the `**app.js**` file so that we have some nice comment
 
 // Cached element references
 
-// Event listeners
-
 // Functions
 
 // Initialize deck 1 with array of 52 cards 
-
-// Function to handle a button click:
-  // Randomly select number from total cards remaining
-  // Assign card with the random index to a variable
-  // Add card picked to deck 2
-  // Pass card picked to render function to display
-
 
 // Function to render deck state
   // Remove outline class when first card is picked
@@ -53,5 +44,14 @@ Paste the following into the `**app.js**` file so that we have some nice comment
   // Add current card picked to deck 2 element
   // Adjust shadow when deck gets above/below halfway full
   // Remove card back color and add outline when last card is picked
+
+// Function to handle a button click:
+  // Randomly select number from total cards remaining
+  // Assign card with the random index to a variable
+  // Add card picked to deck 2
+  // Pass card picked to render function to display
+
+// Event listeners
+
 ```
 
