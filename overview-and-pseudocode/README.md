@@ -14,14 +14,14 @@ The purpose of this lesson is to provide basic instructions for using the [CSS C
     2. Deck 2 should display an empty card outline.
 3. Create cached element references for each of the card decks.
 4. Add an event listener for the "Flip" button.
-5. Write an initialization function that assigns 52 'cards' to deck 1.
+5. Write an initialization function that assigns 52 'cards' to deck 1, then invoke it.
 6. Declare a `render()` function to display a card after it is 'flipped'.
 7. Stub up a `handleClick()` function for the event listener to call.
     1. Select a random card from deck 1.
     2. Remove the card from deck 1.
     3. Add the card to deck 2.
     4. Call the `render()` function and pass the card to it.
-8. Within the `render()` function:
+8. Within the `render()` function (situated above handleClick()):
     1. After the first card is picked, remove the outline on deck 2.
     2. Add the class name to display the card picked on deck 2.
     3. When half of the cards are flipped, move the shadow from deck 1 to deck 2.
