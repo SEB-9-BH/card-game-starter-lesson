@@ -2,7 +2,7 @@
 
 ## About
 
-This module covers how to construct a card deck using CSS.
+This module covers how to construct a card deck using CSS and adding functionality with JavaScript.
 
 ## Prerequisites
 
