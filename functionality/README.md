@@ -1,6 +1,6 @@
 # ![CSS Card Deck - Creating The Deck](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to use JavaScript to 
+**Learning objective:** By the end of this lesson, students will be able to use JavaScript to create the flipping card functionality for our card deck.
 
 Let's start with the HTML. We'll need two deck <div>'s and a button. Add the following inside the HTML body: 
 
@@ -53,10 +53,10 @@ Next, let's write a function to handle a button click. Add the pseudocode from o
 ```javascript
 // Function to handle a button click:
 const handleClick = () => {
-    // Randomly select number from total cards remaining
-    // Assign card with the random index to a variable
-    // Add card picked to deck 2
-    // Pass card picked to render function to display
+  // Randomly select number from total cards remaining
+  // Assign card with the random index to a variable
+  // Add card picked to deck 2
+  // Pass card picked to render function to display
 }
 ```
 
@@ -70,11 +70,11 @@ The other function we'll need is `render()`. As we did with `handleClick()`, add
 
 ```javascript
 const render = () => {
-	 // Remove outline class when first card is picked
-   // Removes previous picked card from deck 2 class list
-   // Add current card picked to deck 2 element
-	 // Adjust shadow when deck gets above/below halfway full
-	 // Remove card back color and add outline when last card is picked
+	// Remove outline class when first card is picked
+  // Removes previous picked card from deck 2 class list
+  // Add current card picked to deck 2 element
+	// Adjust shadow when deck gets above/below halfway full
+	// Remove card back color and add outline when last card is picked
 }
 ```
 
@@ -84,21 +84,21 @@ Let's start fleshing out our functions by turning our pseudocode into actual cod
 
 ```javascript
 const handleClick = () => {
-	// Used to prevent error on click when no cards are left in deck 1
+  // Used to prevent error on click when no cards are left in deck 1
   if (deck1.length > 0) {  
 
-	  // Randomly select number from total cards remaining
-		let randomIdx = Math.floor(Math.random() * deck1.length)
+    // Randomly select number from total cards remaining
+    let randomIdx = Math.floor(Math.random() * deck1.length)
 
     // We use splice and the random index to remove a random card 
     // from the deck. Then, we assign that card to a variable. 
-	  let cardPicked = deck1.splice(randomIdx, 1)[0]
+    let cardPicked = deck1.splice(randomIdx, 1)[0]
 
-	  // Add the picked card to deck 2
-		deck2.push(cardPicked) 
+    // Add the picked card to deck 2
+    deck2.push(cardPicked) 
 
-	  // Pass the picked card to the render function to display
-		render(cardPicked)
+    // Pass the picked card to the render function to display
+    render(cardPicked)
   }
 }
 ```
@@ -107,11 +107,11 @@ Notice that we're passing our `cardPicked` variable to `render()` as an argument
 
 ```javascript
 function render(cardPicked){
-	 // Remove outline class when first card is picked
-   // Removes previous picked card from deck 2 class list
-   // Add current card picked to deck 2 element
-	 // Adjust shadow when deck gets above/below halfway full
-	 // Remove card back color and add outline when last card is picked
+  // Remove outline class when first card is picked
+  // Removes previous picked card from deck 2 class list
+  // Add current card picked to deck 2 element
+  // Adjust shadow when deck gets above/below halfway full
+  // Remove card back color and add outline when last card is picked
 }
 ```
 
@@ -125,15 +125,15 @@ const render = (cardPicked) => {
     deck2El.classList.remove("outline")
   }
 
-	// Remove previous picked card from deck2's class list. 
+  // Remove previous picked card from deck2's class list. 
   if (deck2.length > 1) {  
     deck2El.classList.remove(cardToRemove)
   }
 
-	// Set card to be removed on next click
+  // Set card to be removed on next click
   cardToRemove = cardPicked  
 
-	// Apply current picked card deck2's class list. For example, if picked card was "h08", the the deck2El would gain the class "h08", which correlates to a background image of the eight of hearts. 
+  // Apply current picked card deck2's class list. For example, if picked card was "h08", the the deck2El would gain the class "h08", which correlates to a background image of the eight of hearts. 
   deck2El.classList.add(cardPicked)  
 
   // Check which deck has the majority of cards. Once deck2 has more cards, remove shadow from deck1 and apply it to deck2.
