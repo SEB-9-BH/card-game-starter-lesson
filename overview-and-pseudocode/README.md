@@ -15,8 +15,8 @@ Paste the following into the **`app.js`** file so that we have some nice comment
   // 2. Deck 2 should display an empty card outline.
 // 3. Create cached element references for each of the card decks.
 // 4. Add an event listener for the "Flip" button.
-// 5. Write an initialization function that assigns 52 'cards' to deck 1, then invoke it.
-// 6. Declare a render() function to display a card after it is 'flipped'.
+// 5. Write an initialization function that assigns 52 card" to deck 1, then invoke it.
+// 6. Declare a render() function to display a card after it is flipped.
 // 7. Stub up a handleClick() function for the event listener to call.
   // 1. Select a random card from deck 1.
   // 2. Remove the card from deck 1.
