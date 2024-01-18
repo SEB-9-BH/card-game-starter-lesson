@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to use JavaScript to create the flipping card functionality for our card deck.
 
-Let's start with the HTML. We'll need two deck <div>'s and a button. Add the following inside the HTML body: 
+Let's start with the HTML. We'll need two `<div>`s for our deck (`deck-1` and `deck-2`) and a 'Flip Card' button. Add the following inside the HTML body: 
 
 ```html
 <div class="container">

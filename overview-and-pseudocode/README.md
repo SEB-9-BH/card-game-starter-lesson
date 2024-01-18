@@ -6,7 +6,7 @@ The purpose of this lesson is to provide basic instructions for using the [CSS C
 
 ## Pseudocode Roadmap
 
-Paste the following into the `**app.js**` file so that we have some nice commented pseudocode code to work with as we progress:
+Paste the following into the **`app.js`** file so that we have some nice commented pseudocode code to work with as we progress:
 
 ```javascript
 // 1. Declare variables (arrays) for two decks of cards.
