@@ -12,7 +12,7 @@ This module covers how to construct a card deck using CSS and adding functionali
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md) | -- | -- | -- |
+| [Setup](./setup/README.md) | -- | -- | Setting up the development environment |
 | [Overview and Pseudocode](./overview-and-pseudocode/README.md) | -- | -- | Reading and using pseudocode |
 | [Functionality](./functionality/README.md) | -- | -- | Building a CSS card deck with HTML, CSS, and JavaScript |
 | **Total content**                                        | -- | -- |                     |
