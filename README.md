@@ -6,7 +6,7 @@ This module covers how to construct a card deck using CSS and adding functionali
 
 ## Prerequisites
 
-- tktk
+- Intro to CSS
 
 ## Content
 
