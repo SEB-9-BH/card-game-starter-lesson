@@ -1,4 +1,4 @@
-# ![CSS Card Deck - References](./assets/hero.png)
+# ![Card Game Starter - References](./assets/hero.png)
 
 ## Lesson references
 

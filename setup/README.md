@@ -1,29 +1,42 @@
-# ![CSS Card Deck - Setup](./assets/hero.png)
+# ![Card Game Starter - Setup](./assets/hero.png)
 
-Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
-
-```bash
-cd ~/code/ga/lectures
-```
-
-Clone [this](https://git.generalassemb.ly/modular-curriculum-all-courses/css-card-deck-starter) repository, and enter the new directory: 
+Open your Terminal application and navigate to your `~/code/ga/projects` directory:
 
 ```bash
-git clone https://git.generalassemb.ly/modular-curriculum-all-courses/css-card-deck-starter
-cd css-card-deck-starter
+cd ~/code/ga/projects
 ```
 
-Delete the `.git` info from the cloned template: 
+Clone the [Card Game Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter-code) repository, and enter the new directory: 
+
+```bash
+git clone https://git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter-code.git
+cd card-game-starter-code
+```
+
+Once cloned, you'll need to remove the existing `.git` information from this template. 
+
+This can be done with the following command:
 
 ```bash
 rm -rf .git
 ```
 
-> Make sure you delete the .git info when you clone a template like this.  It’s starter code being provided by GA and you don’t need our commits on it!
+> Removing the `.git` info is important as this is just a starter template provided by GA. You do not need the existing git history for this project.
 
-With the repository cloned, open the contents of the directory in VS Code:
+
+With the old .git information removed, you can now reinitialize Git to start your own version control history. 
+Use these commands to initialize a new Git repository and make your first commit:
+
+```bash
+git init
+git add . 
+git commit -m "initial commit"
+```
+
+Finally, open the contents of your new project directory in VSCode:
 
 ```bash
 code .
 ```
 
+Now you're all set to start working on your Card Game project!

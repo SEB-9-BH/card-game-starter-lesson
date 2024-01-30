@@ -1,4 +1,4 @@
-# ![CSS Card Deck - Creating The Deck](./assets/hero.png)
+# ![Card Game Starter - Creating The Deck](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to use JavaScript to create the flipping card functionality for our card deck.
 
@@ -46,7 +46,7 @@ const init = () => {
 init()
 ```
 
-> 🧠 Note that the strings we're using to represent each card in the deck match one to one with the selector names in `cardStarter.css`. This is how we'll be able to dynamically style the card, based on whichever random element is picked from our deck.
+> 🧠 Note that the strings we're using to represent each card in the deck match one-to-one with the selector names in `cardStarter.css`. This is how we'll be able to dynamically style the card, based on whichever random element is picked from our deck.
 
 Next, let's write a function to handle a button click. Add the pseudocode from our list into the function so we have easy access to our list of things to do:
 
@@ -71,7 +71,7 @@ The other function we'll need is `render()`. As we did with `handleClick()`, add
 ```javascript
 const render = () => {
 	// Remove outline class when first card is picked
-  // Removes previous picked card from deck 2 class list
+  // Removes previously picked card from deck 2 class list
   // Add current card picked to deck 2 element
 	// Adjust shadow when deck gets above/below halfway full
 	// Remove card back color and add outline when last card is picked
@@ -108,7 +108,7 @@ Notice that we're passing our `cardPicked` variable to `render()` as an argument
 ```javascript
 function render(cardPicked){
   // Remove outline class when first card is picked
-  // Removes previous picked card from deck 2 class list
+  // Removes previously picked card from deck 2 class list
   // Add current card picked to deck 2 element
   // Adjust shadow when deck gets above/below halfway full
   // Remove card back color and add outline when last card is picked
@@ -150,3 +150,4 @@ const render = (cardPicked) => {
 }
 ```
 
+Congrats! Your flipping cards are ready for your game! 

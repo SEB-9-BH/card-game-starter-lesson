@@ -1,10 +1,10 @@
-# ![CSS Card Deck - Overview and Pseudocode](./assets/hero.png)
+# ![Card Game Starter - Overview and Pseudocode](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will review the pseudo code for utilizing the CSS Card Deck library to create and manipulate a deck of playing cards. 
+**Learning objective:** By the end of this lesson, students will review the pseudocode for utilizing the Card Game Starter library to create and manipulate a deck of playing cards. 
 
 ## Overview
 
-The purpose of this lesson is to provide basic instructions for using the [CSS Card Deck](https://github.com/SEI-Remote/css-card-deck). This repository contains a style sheet and set of images that allow HTML elements to be styled as playing cards by adding/removing class names. 
+The purpose of this lesson is to provide basic instructions for using the Card Game Starter Code. This repository contains a style sheet and set of images that allow HTML elements to be styled as playing cards by adding and removing class names. 
 
 ## Pseudocode Roadmap
 
@@ -17,7 +17,7 @@ Paste the following into the **`app.js`** file so that we have some nice comment
   // 2. Deck 2 should display an empty card outline.
 // 3. Create cached element references for each of the card decks.
 // 4. Add an event listener for the "Flip" button.
-// 5. Write an initialization function that assigns 52 card" to deck 1, then invoke it.
+// 5. Write an initialization function that assigns 52 cards" to deck 1, then invoke it.
 // 6. Declare a render() function to display a card after it is flipped.
 // 7. Stub up a handleClick() function for the event listener to call.
   // 1. Select a random card from deck 1.
