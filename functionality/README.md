@@ -1,4 +1,4 @@
-# ![Card Game Starter - Creating The Deck](./assets/hero.png)
+# ![Card Game Starter - Functionality](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to use JavaScript to create the flipping card functionality for our card deck.
 
