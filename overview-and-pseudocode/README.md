@@ -1,5 +1,7 @@
 # ![CSS Card Deck - Overview and Pseudocode](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will review the pseudo code for utilizing the CSS Card Deck library to create and manipulate a deck of playing cards. 
+
 ## Overview
 
 The purpose of this lesson is to provide basic instructions for using the [CSS Card Deck](https://github.com/SEI-Remote/css-card-deck). This repository contains a style sheet and set of images that allow HTML elements to be styled as playing cards by adding/removing class names. 
