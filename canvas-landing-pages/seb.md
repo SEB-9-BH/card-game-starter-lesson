@@ -8,9 +8,9 @@ In this module, you'll learn to create the foundational card flip logic for enga
 
 | Lesson | Skills |
 | ------ | ------ |
-| [Setup](./setup/README.md) | Setting up the development environment |
-| [Overview and Pseudocode](./overview-and-pseudocode/README.md) | Review pseudocode for card flip logic |
-| [Functionality](./functionality/README.md) | Build card flip logic using JavaScript and the provided CSS assets |
+| [Setup](../setup/README.md) | Setting up the development environment |
+| [Overview and Pseudocode](../overview-and-pseudocode/README.md) | Review pseudocode for card flip logic |
+| [Functionality](../functionality/README.md) | Build card flip logic using JavaScript and the provided CSS assets |
 
 ## Starter code
 
