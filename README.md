@@ -1,4 +1,4 @@
-# ![Card Game Starter](./assets/tktk-hero.png)
+# ![Card Game Starter](./assets/hero.png)
 
 ## About
 
