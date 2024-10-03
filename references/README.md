@@ -3,14 +3,4 @@
   <span class="subhead">References</span>
 </h1>
 
-## Lesson references
-
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-
-## Level Up references
-
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+No references for this lesson. 
