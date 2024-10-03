@@ -1,4 +1,7 @@
-# ![Card Game Starter - Overview and Pseudocode](./assets/hero.png)
+<h1>
+  <span class="headline">Card Game Starter</span>
+  <span class="subhead">Overview and Pseudocode</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will review the pseudocode for utilizing the Card Game Starter library to create and manipulate a deck of playing cards. 
 
