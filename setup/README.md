@@ -1,4 +1,7 @@
-# ![Card Game Starter - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Card Game Starter</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 Open your Terminal application and navigate to your `~/code/ga/projects` directory:
 
