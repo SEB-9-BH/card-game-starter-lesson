@@ -16,10 +16,14 @@ In this module, you'll learn to create the foundational card flip logic for enga
 | [Overview and Pseudocode](../overview-and-pseudocode/README.md) | Review pseudocode for card flip logic                              |
 | [Functionality](../functionality/README.md)                     | Build card flip logic using JavaScript and the provided CSS assets |
 
+## References
+
+📖 [Reference Materials](./references/README.md)
+
 ## Starter code
 
 🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter-code)
 
 ## Deployed sites
 
-🌐 [Live site](https://flippin-awesome.surge.sh/)
+🌐 [Live Example](https://flippin-awesome.surge.sh/)

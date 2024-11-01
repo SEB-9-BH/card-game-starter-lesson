@@ -33,7 +33,7 @@ In this module, you'll learn to create the foundational card flip logic for enga
 
 ### Deployed sites
 
-🌐 [Live site](https://flippin-awesome.surge.sh/)
+🌐 [Live Example](https://flippin-awesome.surge.sh/)
 
 ### Github Pages Sites
 
