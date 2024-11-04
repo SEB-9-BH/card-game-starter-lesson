@@ -35,7 +35,7 @@ In this module, you'll learn to create the foundational card flip logic for enga
 
 🌐 [Live Example](https://flippin-awesome.surge.sh/)
 
-### Github Pages Sites
+### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter/canvas-landing-pages/fallback)
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter/canvas-landing-pages/seb)
