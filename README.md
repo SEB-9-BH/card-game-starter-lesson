@@ -29,7 +29,7 @@ In this module, you'll learn to create the foundational card flip logic for enga
 
 ### Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/card-game-starter-code)
+🟢 [Starter code](https://github.com/SEB-9-BH/card-game-starter)
 
 ### Deployed sites
 
